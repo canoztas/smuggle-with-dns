@@ -11,7 +11,7 @@ python3 swd.py --file path_to_file --domain root_domain --buffer length_of_strin
 ```
 
 # Setup
-- ``` <i> -h => help menu </i> ```
-- ``` <i> --file => path of file </i> ```
-- ``` <i> --domain => root domain to send request </i> ``` 
-- ``` <i> --buffer => subdomain string size, default 16 </i> ```
+- ``` -h => help menu  ```
+- ```  --file => path of file  ```
+- ```  --domain => root domain to send request  ``` 
+- ```  --buffer => subdomain string size, default 16  ```
